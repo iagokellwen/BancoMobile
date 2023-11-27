@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Banco Unipe</string>
+
+    <string name="txt_nome_usuario">Olá, iago</string>
+    <string name="txt_conta">Conta</string>
+    <string name="txt_saldo">0.0</string>
+
+</resources>
